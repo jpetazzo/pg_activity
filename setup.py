@@ -17,7 +17,7 @@ setup(
         "psutil >= 0.4.1",
         "psycopg2 >= 2.2.1",
     ],
-    data_files = [
-        ('/usr/share/man/man1', ['docs/man/pg_activity.1'])
-    ],
+#    data_files = [
+#        ('/usr/share/man/man1', ['docs/man/pg_activity.1'])
+#    ],
 )
